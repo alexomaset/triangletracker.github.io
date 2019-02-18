@@ -19,3 +19,7 @@ Triangle tracker is an app that allows the user to calculate the area of a trian
 * Html
 * Css
 * Javascript
+
+## MIT License
+
+  Copyright (c) 2019 Alex Omaset
