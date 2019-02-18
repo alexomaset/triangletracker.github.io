@@ -14,3 +14,4 @@ var triangleTracker = function(sideA, sideB, sideC) {
      alert("Scalene Triangle")
      } else {
      alert("NO Triangle")
+     }
