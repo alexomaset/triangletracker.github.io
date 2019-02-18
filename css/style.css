@@ -1,5 +1,6 @@
 h1 {
     color: darkred;
+    text-align: center;
   }
   h2 {
     font-style: italic;
@@ -10,7 +11,8 @@ h1 {
       color: crimson;
     }
     body {
-      background-color: salmon;
+      background-color: none;
+      background-image: url("..Images/triangle.jpg");
       font-family: san-serif;
       text-align: center;
-    } 
+    }
