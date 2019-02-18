@@ -12,7 +12,7 @@ h1 {
     }
     body {
       background-color: none;
-      background-image: url("..Images/triangle.jpg");
+      background-image: url("../Images/triangle.jpg");
       font-family: san-serif;
       text-align: center;
     }

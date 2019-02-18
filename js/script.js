@@ -1,10 +1,7 @@
-function tap() {
-var sidea = document.getElementById("data1").value;
-var sideb = document.getElementById("data2").value;
-var sidec = document.getElementById("data3").value;
-var sideA=parseInt(sideA);
-var sideB=parseInt(sideB);
-var sideC=parseInt(sideC);
+var triangle = function tap() {
+var sideA=parseInt(document.getElementById("data1").value);
+var sideB=parseInt(document.getElementById("data2").value);
+var sideC=parseInt(document.getElementById("data3").value);
 console.log(sideA)
 console.log(sideB)
 console.log(sideC)
