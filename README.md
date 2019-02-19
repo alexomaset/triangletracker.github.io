@@ -12,9 +12,9 @@ Triangle tracker is an app that allows the user to calculate the area of a trian
 | Behaviour | Input | Output |
 | --- | --- | --- |
 | Scalene | SideA=3<br>sideB=4<br>sideC=5 | Scalene triangle |
-| Equilateral  | SideA=4<br>sideB=6<br>sideC10 | Equilateral triangle |
-| Isosceles | sideA=2<br>sideB=8<br>sideC=12 | Isosceles
-| No Triangle | SideA=1<br>sideB=2<br>sideC=3 | No triangle
+| Equilateral  | SideA=4<br>sideB=4<br>sideC=4| Equilateral triangle |
+| Isosceles | sideA=2<br>sideB=2<br>sideC=12 | Isosceles
+|
 ## Technologies Used
 * Html
 * Css
