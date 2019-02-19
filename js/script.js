@@ -7,7 +7,7 @@ if(sideA + sideB <= sideC || sideB + sideC <= sideA || sideC + sideA <= sideB){
 } else {
   if(sideA == sideB && sideB == sideC && sideA == sideC){
     alert("equilateral triangle");
-  } else if((sideA===sideB) && (sideB===sideC) && (sideA===sideC)){
+  } else if((sideA===sideB) || (sideB===sideC) || (sideA===sideC)){
     alert("Isosceles triangle");
   } else {
     alert("Scalene");
